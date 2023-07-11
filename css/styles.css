@@ -1,0 +1,38 @@
+.box1{ border: px solid black;
+    padding:10px ;
+    margin:10px;
+    width:300px;
+   }
+ 
+   .name{ border: 10px none;
+     margin: 10px;
+     padding:10px
+ }
+ 
+   .box2{padding:10px;
+     margin:10px;
+     border: 1px solid black
+ }
+ 
+   img{border:1px solid black;
+    padding: 1px;
+    flex-wrap: wrap;
+    width: 300px;
+ }
+ 
+   #background{ background-color: lightgreen;}
+ 
+   body{border: 1px solid black;
+     background: linear-gradient(to bottom, red, lightgreen, tan);
+     width: 300px;
+     padding: 10px;
+     margin:10px;
+     float:center;
+ }
+ 
+   span{font-weight: bold;
+ }
+ 
+   ul{list-style-type: none;
+ }
+ 
